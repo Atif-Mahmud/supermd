@@ -17,8 +17,8 @@
             .hash = "tracy-0.0.0-4Xw-1pwwAABTfMgoDP1unCbZDZhJEfict7XCBGF6IdIn",
         },
         .scripty = .{
-            .url = "git+https://github.com/kristoff-it/scripty#57056571abcc6fe69fcb171c10b0c9e5962f53b0",
-            .hash = "scripty-0.1.0-LKK5O9jDAADwZbkwkzYcmtTD3xIStr1SNYWL0kcGf8sk",
+            .url = "git+https://github.com/Atif-Mahmud/scripty#29eac101b5d219b6553200dfac6752bd8da66997",
+            .hash = "scripty-0.1.0-LKK5O83DAACgM2kYJoVZGVg6slPt2PqPuETTF4dWwr6u",
         },
         .superhtml = .{
             .url = "git+https://github.com/Atif-Mahmud/superhtml#7b207e37c94850833e1f0a42379de4e706dbbdde",
